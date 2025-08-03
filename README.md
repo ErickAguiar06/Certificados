@@ -29,7 +29,7 @@ Os certificados estão organizados em pastas de acordo com a **plataforma de ens
 Este repositório é vinculado ao meu portfólio pessoal:
 
 🔗 **[Acesse meu Portfólio no GitHub](https://github.com/ErickAguiar06)**  
-🔗 **[Meu Portfólio com projetos e sistemas](https://erickaguiar06.github.io/Portifolio)**
+🔗 **[Meu Portfólio com projetos e sistemas](https://erickaguiar06.github.io/Portfolio/)**
 
 ---
 
